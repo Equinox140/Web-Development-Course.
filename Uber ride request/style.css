@@ -1,0 +1,57 @@
+.uber-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+
+.uber-button:hover {
+    opacity: 0.8;
+  }
+
+.input{
+    display: block;
+    font-size: larger;
+    margin-bottom: 8px;
+    width: 560px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border:none;
+    background-color: rgb(240, 240, 240);
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Schedule {
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.Schedule:hover {
+    background-color: rgb(245, 240, 240)
+  }
+
+.box {
+    width: 600px;
+    margin-left: 470px;
+    margin-top: 200px;
+    border-color: black;
+    border-style: solid;
+    padding:0px 0px 20px 20px ;
+}
